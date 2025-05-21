@@ -1,0 +1,1743 @@
+[
+  {
+    "id": 1,
+    "title": "5BR Townhouse in Downtown Dubai",
+    "location": "Downtown Dubai",
+    "price": "$1022K",
+    "type": "Townhouse",
+    "bedrooms": 5,
+    "bathrooms": 1,
+    "size_sqm": 340,
+    "amenities": [
+      "security",
+      "parking",
+      "garden",
+      "smart home system",
+      "gym"
+    ],
+    "description": "A beautiful 5-bedroom townhouse located in Downtown Dubai, featuring 1 bathroom(s) and a spacious 340 sqm layout. Amenities include security, parking, garden, smart home system, and gym. Ideally situated in Downtown Dubai, this property offers both comfort and convenience for modern living."
+  },
+  {
+    "id": 2,
+    "title": "3BR Apartment in Business Bay",
+    "location": "Business Bay",
+    "price": "$2648K",
+    "type": "Apartment",
+    "bedrooms": 3,
+    "bathrooms": 2,
+    "size_sqm": 370,
+    "amenities": [
+      "balcony",
+      "smart home system",
+      "maid room",
+      "garden",
+      "gym"
+    ],
+    "description": "A beautiful 3-bedroom apartment located in Business Bay, featuring 2 bathroom(s) and a spacious 370 sqm layout. Amenities include balcony, smart home system, maid room, garden, and gym. Ideally situated in Business Bay, this property offers both comfort and convenience for modern living."
+  },
+  {
+    "id": 3,
+    "title": "1BR Studio in Al Barsha",
+    "location": "Al Barsha",
+    "price": "$571K",
+    "type": "Studio",
+    "bedrooms": 1,
+    "bathrooms": 2,
+    "size_sqm": 480,
+    "amenities": [
+      "gym",
+      "balcony",
+      "pool",
+      "garden",
+      "smart home system"
+    ],
+    "description": "A beautiful 1-bedroom studio located in Al Barsha, featuring 2 bathroom(s) and a spacious 480 sqm layout. Amenities include gym, balcony, pool, garden, and smart home system. Ideally situated in Al Barsha, this property offers both comfort and convenience for modern living."
+  },
+  {
+    "id": 4,
+    "title": "1BR Penthouse in Arabian Ranches",
+    "location": "Arabian Ranches",
+    "price": "$1894K",
+    "type": "Penthouse",
+    "bedrooms": 1,
+    "bathrooms": 3,
+    "size_sqm": 270,
+    "amenities": [
+      "smart home system",
+      "balcony",
+      "pool",
+      "maid room",
+      "security",
+      "parking"
+    ],
+    "description": "A beautiful 1-bedroom penthouse located in Arabian Ranches, featuring 3 bathroom(s) and a spacious 270 sqm layout. Amenities include smart home system, balcony, pool, maid room, security, and parking. Ideally situated in Arabian Ranches, this property offers both comfort and convenience for modern living."
+  },
+  {
+    "id": 5,
+    "title": "2BR Townhouse in Dubai Hills",
+    "location": "Dubai Hills",
+    "price": "$1040K",
+    "type": "Townhouse",
+    "bedrooms": 2,
+    "bathrooms": 3,
+    "size_sqm": 410,
+    "amenities": [
+      "security",
+      "parking",
+      "garden",
+      "gym",
+      "balcony"
+    ],
+    "description": "A beautiful 2-bedroom townhouse located in Dubai Hills, featuring 3 bathroom(s) and a spacious 410 sqm layout. Amenities include security, parking, garden, gym, and balcony. Ideally situated in Dubai Hills, this property offers both comfort and convenience for modern living."
+  },
+  {
+    "id": 6,
+    "title": "2BR Apartment in Al Barsha",
+    "location": "Al Barsha",
+    "price": "$1535K",
+    "type": "Apartment",
+    "bedrooms": 2,
+    "bathrooms": 4,
+    "size_sqm": 200,
+    "amenities": [
+      "parking",
+      "maid room",
+      "security",
+      "balcony",
+      "pool"
+    ],
+    "description": "A beautiful 2-bedroom apartment located in Al Barsha, featuring 4 bathroom(s) and a spacious 200 sqm layout. Amenities include parking, maid room, security, balcony, and pool. Ideally situated in Al Barsha, this property offers both comfort and convenience for modern living."
+  },
+  {
+    "id": 7,
+    "title": "3BR Studio in Dubai Marina",
+    "location": "Dubai Marina",
+    "price": "$3869K",
+    "type": "Studio",
+    "bedrooms": 3,
+    "bathrooms": 4,
+    "size_sqm": 330,
+    "amenities": [
+      "parking",
+      "pool",
+      "garden",
+      "security"
+    ],
+    "description": "A beautiful 3-bedroom studio located in Dubai Marina, featuring 4 bathroom(s) and a spacious 330 sqm layout. Amenities include parking, pool, garden, and security. Ideally situated in Dubai Marina, this property offers both comfort and convenience for modern living."
+  },
+  {
+    "id": 8,
+    "title": "3BR Studio in Jumeirah",
+    "location": "Jumeirah",
+    "price": "$162K",
+    "type": "Studio",
+    "bedrooms": 3,
+    "bathrooms": 4,
+    "size_sqm": 80,
+    "amenities": [
+      "parking",
+      "balcony",
+      "gym",
+      "smart home system"
+    ],
+    "description": "A beautiful 3-bedroom studio located in Jumeirah, featuring 4 bathroom(s) and a spacious 80 sqm layout. Amenities include parking, balcony, gym, and smart home system. Ideally situated in Jumeirah, this property offers both comfort and convenience for modern living."
+  },
+  {
+    "id": 9,
+    "title": "3BR Villa in Dubai Marina",
+    "location": "Dubai Marina",
+    "price": "$3625K",
+    "type": "Villa",
+    "bedrooms": 3,
+    "bathrooms": 2,
+    "size_sqm": 420,
+    "amenities": [
+      "balcony",
+      "smart home system",
+      "gym"
+    ],
+    "description": "A beautiful 3-bedroom villa located in Dubai Marina, featuring 2 bathroom(s) and a spacious 420 sqm layout. Amenities include balcony, smart home system, and gym. Ideally situated in Dubai Marina, this property offers both comfort and convenience for modern living."
+  },
+  {
+    "id": 10,
+    "title": "1BR Townhouse in Dubai Marina",
+    "location": "Dubai Marina",
+    "price": "$2982K",
+    "type": "Townhouse",
+    "bedrooms": 1,
+    "bathrooms": 4,
+    "size_sqm": 250,
+    "amenities": [
+      "parking",
+      "maid room",
+      "garden",
+      "balcony",
+      "pool"
+    ],
+    "description": "A beautiful 1-bedroom townhouse located in Dubai Marina, featuring 4 bathroom(s) and a spacious 250 sqm layout. Amenities include parking, maid room, garden, balcony, and pool. Ideally situated in Dubai Marina, this property offers both comfort and convenience for modern living."
+  },
+  {
+    "id": 11,
+    "title": "1BR Penthouse in Palm Jumeirah",
+    "location": "Palm Jumeirah",
+    "price": "$3770K",
+    "type": "Penthouse",
+    "bedrooms": 1,
+    "bathrooms": 4,
+    "size_sqm": 320,
+    "amenities": [
+      "pool",
+      "garden",
+      "smart home system",
+      "maid room",
+      "parking",
+      "balcony"
+    ],
+    "description": "A beautiful 1-bedroom penthouse located in Palm Jumeirah, featuring 4 bathroom(s) and a spacious 320 sqm layout. Amenities include pool, garden, smart home system, maid room, parking, and balcony. Ideally situated in Palm Jumeirah, this property offers both comfort and convenience for modern living."
+  },
+  {
+    "id": 12,
+    "title": "1BR Penthouse in JVC",
+    "location": "JVC",
+    "price": "$2834K",
+    "type": "Penthouse",
+    "bedrooms": 1,
+    "bathrooms": 2,
+    "size_sqm": 100,
+    "amenities": [
+      "smart home system",
+      "balcony",
+      "gym"
+    ],
+    "description": "A beautiful 1-bedroom penthouse located in JVC, featuring 2 bathroom(s) and a spacious 100 sqm layout. Amenities include smart home system, balcony, and gym. Ideally situated in JVC, this property offers both comfort and convenience for modern living."
+  },
+  {
+    "id": 13,
+    "title": "3BR Townhouse in Dubai Marina",
+    "location": "Dubai Marina",
+    "price": "$2241K",
+    "type": "Townhouse",
+    "bedrooms": 3,
+    "bathrooms": 1,
+    "size_sqm": 370,
+    "amenities": [
+      "security",
+      "smart home system",
+      "parking",
+      "garden"
+    ],
+    "description": "A beautiful 3-bedroom townhouse located in Dubai Marina, featuring 1 bathroom(s) and a spacious 370 sqm layout. Amenities include security, smart home system, parking, and garden. Ideally situated in Dubai Marina, this property offers both comfort and convenience for modern living."
+  },
+  {
+    "id": 14,
+    "title": "5BR Villa in Deira",
+    "location": "Deira",
+    "price": "$3052K",
+    "type": "Villa",
+    "bedrooms": 5,
+    "bathrooms": 3,
+    "size_sqm": 130,
+    "amenities": [
+      "gym",
+      "security",
+      "maid room",
+      "pool",
+      "smart home system"
+    ],
+    "description": "A beautiful 5-bedroom villa located in Deira, featuring 3 bathroom(s) and a spacious 130 sqm layout. Amenities include gym, security, maid room, pool, and smart home system. Ideally situated in Deira, this property offers both comfort and convenience for modern living."
+  },
+  {
+    "id": 15,
+    "title": "1BR Penthouse in Downtown Dubai",
+    "location": "Downtown Dubai",
+    "price": "$3953K",
+    "type": "Penthouse",
+    "bedrooms": 1,
+    "bathrooms": 2,
+    "size_sqm": 330,
+    "amenities": [
+      "garden",
+      "security",
+      "parking",
+      "balcony",
+      "smart home system"
+    ],
+    "description": "A beautiful 1-bedroom penthouse located in Downtown Dubai, featuring 2 bathroom(s) and a spacious 330 sqm layout. Amenities include garden, security, parking, balcony, and smart home system. Ideally situated in Downtown Dubai, this property offers both comfort and convenience for modern living."
+  },
+  {
+    "id": 16,
+    "title": "3BR Apartment in Dubai Marina",
+    "location": "Dubai Marina",
+    "price": "$236K",
+    "type": "Apartment",
+    "bedrooms": 3,
+    "bathrooms": 1,
+    "size_sqm": 220,
+    "amenities": [
+      "smart home system",
+      "gym",
+      "garden"
+    ],
+    "description": "A beautiful 3-bedroom apartment located in Dubai Marina, featuring 1 bathroom(s) and a spacious 220 sqm layout. Amenities include smart home system, gym, and garden. Ideally situated in Dubai Marina, this property offers both comfort and convenience for modern living."
+  },
+  {
+    "id": 17,
+    "title": "1BR Penthouse in JVC",
+    "location": "JVC",
+    "price": "$1114K",
+    "type": "Penthouse",
+    "bedrooms": 1,
+    "bathrooms": 4,
+    "size_sqm": 310,
+    "amenities": [
+      "gym",
+      "garden",
+      "maid room"
+    ],
+    "description": "A beautiful 1-bedroom penthouse located in JVC, featuring 4 bathroom(s) and a spacious 310 sqm layout. Amenities include gym, garden, and maid room. Ideally situated in JVC, this property offers both comfort and convenience for modern living."
+  },
+  {
+    "id": 18,
+    "title": "3BR Townhouse in Al Barsha",
+    "location": "Al Barsha",
+    "price": "$1646K",
+    "type": "Townhouse",
+    "bedrooms": 3,
+    "bathrooms": 3,
+    "size_sqm": 480,
+    "amenities": [
+      "security",
+      "pool",
+      "parking",
+      "smart home system",
+      "maid room",
+      "gym"
+    ],
+    "description": "A beautiful 3-bedroom townhouse located in Al Barsha, featuring 3 bathroom(s) and a spacious 480 sqm layout. Amenities include security, pool, parking, smart home system, maid room, and gym. Ideally situated in Al Barsha, this property offers both comfort and convenience for modern living."
+  },
+  {
+    "id": 19,
+    "title": "5BR Villa in JVC",
+    "location": "JVC",
+    "price": "$3201K",
+    "type": "Villa",
+    "bedrooms": 5,
+    "bathrooms": 3,
+    "size_sqm": 60,
+    "amenities": [
+      "smart home system",
+      "maid room",
+      "security",
+      "balcony"
+    ],
+    "description": "A beautiful 5-bedroom villa located in JVC, featuring 3 bathroom(s) and a spacious 60 sqm layout. Amenities include smart home system, maid room, security, and balcony. Ideally situated in JVC, this property offers both comfort and convenience for modern living."
+  },
+  {
+    "id": 20,
+    "title": "1BR Studio in Business Bay",
+    "location": "Business Bay",
+    "price": "$2194K",
+    "type": "Studio",
+    "bedrooms": 1,
+    "bathrooms": 4,
+    "size_sqm": 310,
+    "amenities": [
+      "gym",
+      "security",
+      "balcony",
+      "garden",
+      "smart home system"
+    ],
+    "description": "A beautiful 1-bedroom studio located in Business Bay, featuring 4 bathroom(s) and a spacious 310 sqm layout. Amenities include gym, security, balcony, garden, and smart home system. Ideally situated in Business Bay, this property offers both comfort and convenience for modern living."
+  },
+  {
+    "id": 21,
+    "title": "5BR Studio in JVC",
+    "location": "JVC",
+    "price": "$4606K",
+    "type": "Studio",
+    "bedrooms": 5,
+    "bathrooms": 4,
+    "size_sqm": 100,
+    "amenities": [
+      "garden",
+      "gym",
+      "smart home system"
+    ],
+    "description": "A beautiful 5-bedroom studio located in JVC, featuring 4 bathroom(s) and a spacious 100 sqm layout. Amenities include garden, gym, and smart home system. Ideally situated in JVC, this property offers both comfort and convenience for modern living."
+  },
+  {
+    "id": 22,
+    "title": "1BR Studio in Al Barsha",
+    "location": "Al Barsha",
+    "price": "$713K",
+    "type": "Studio",
+    "bedrooms": 1,
+    "bathrooms": 1,
+    "size_sqm": 500,
+    "amenities": [
+      "maid room",
+      "parking",
+      "gym"
+    ],
+    "description": "A beautiful 1-bedroom studio located in Al Barsha, featuring 1 bathroom(s) and a spacious 500 sqm layout. Amenities include maid room, parking, and gym. Ideally situated in Al Barsha, this property offers both comfort and convenience for modern living."
+  },
+  {
+    "id": 23,
+    "title": "2BR Studio in Deira",
+    "location": "Deira",
+    "price": "$2389K",
+    "type": "Studio",
+    "bedrooms": 2,
+    "bathrooms": 3,
+    "size_sqm": 340,
+    "amenities": [
+      "garden",
+      "balcony",
+      "security",
+      "pool"
+    ],
+    "description": "A beautiful 2-bedroom studio located in Deira, featuring 3 bathroom(s) and a spacious 340 sqm layout. Amenities include garden, balcony, security, and pool. Ideally situated in Deira, this property offers both comfort and convenience for modern living."
+  },
+  {
+    "id": 24,
+    "title": "1BR Studio in Al Barsha",
+    "location": "Al Barsha",
+    "price": "$2142K",
+    "type": "Studio",
+    "bedrooms": 1,
+    "bathrooms": 4,
+    "size_sqm": 240,
+    "amenities": [
+      "pool",
+      "security",
+      "parking",
+      "maid room",
+      "gym"
+    ],
+    "description": "A beautiful 1-bedroom studio located in Al Barsha, featuring 4 bathroom(s) and a spacious 240 sqm layout. Amenities include pool, security, parking, maid room, and gym. Ideally situated in Al Barsha, this property offers both comfort and convenience for modern living."
+  },
+  {
+    "id": 25,
+    "title": "5BR Townhouse in Jumeirah",
+    "location": "Jumeirah",
+    "price": "$3712K",
+    "type": "Townhouse",
+    "bedrooms": 5,
+    "bathrooms": 3,
+    "size_sqm": 450,
+    "amenities": [
+      "parking",
+      "smart home system",
+      "pool",
+      "gym"
+    ],
+    "description": "A beautiful 5-bedroom townhouse located in Jumeirah, featuring 3 bathroom(s) and a spacious 450 sqm layout. Amenities include parking, smart home system, pool, and gym. Ideally situated in Jumeirah, this property offers both comfort and convenience for modern living."
+  },
+  {
+    "id": 26,
+    "title": "2BR Apartment in Downtown Dubai",
+    "location": "Downtown Dubai",
+    "price": "$2264K",
+    "type": "Apartment",
+    "bedrooms": 2,
+    "bathrooms": 1,
+    "size_sqm": 260,
+    "amenities": [
+      "gym",
+      "pool",
+      "garden",
+      "parking",
+      "security",
+      "smart home system"
+    ],
+    "description": "A beautiful 2-bedroom apartment located in Downtown Dubai, featuring 1 bathroom(s) and a spacious 260 sqm layout. Amenities include gym, pool, garden, parking, security, and smart home system. Ideally situated in Downtown Dubai, this property offers both comfort and convenience for modern living."
+  },
+  {
+    "id": 27,
+    "title": "5BR Penthouse in Dubai Hills",
+    "location": "Dubai Hills",
+    "price": "$154K",
+    "type": "Penthouse",
+    "bedrooms": 5,
+    "bathrooms": 2,
+    "size_sqm": 250,
+    "amenities": [
+      "smart home system",
+      "pool",
+      "parking"
+    ],
+    "description": "A beautiful 5-bedroom penthouse located in Dubai Hills, featuring 2 bathroom(s) and a spacious 250 sqm layout. Amenities include smart home system, pool, and parking. Ideally situated in Dubai Hills, this property offers both comfort and convenience for modern living."
+  },
+  {
+    "id": 28,
+    "title": "5BR Villa in Dubai Marina",
+    "location": "Dubai Marina",
+    "price": "$4813K",
+    "type": "Villa",
+    "bedrooms": 5,
+    "bathrooms": 1,
+    "size_sqm": 240,
+    "amenities": [
+      "security",
+      "balcony",
+      "garden",
+      "smart home system",
+      "parking",
+      "pool"
+    ],
+    "description": "A beautiful 5-bedroom villa located in Dubai Marina, featuring 1 bathroom(s) and a spacious 240 sqm layout. Amenities include security, balcony, garden, smart home system, parking, and pool. Ideally situated in Dubai Marina, this property offers both comfort and convenience for modern living."
+  },
+  {
+    "id": 29,
+    "title": "4BR Penthouse in Business Bay",
+    "location": "Business Bay",
+    "price": "$3617K",
+    "type": "Penthouse",
+    "bedrooms": 4,
+    "bathrooms": 3,
+    "size_sqm": 220,
+    "amenities": [
+      "pool",
+      "maid room",
+      "gym",
+      "security",
+      "smart home system",
+      "balcony"
+    ],
+    "description": "A beautiful 4-bedroom penthouse located in Business Bay, featuring 3 bathroom(s) and a spacious 220 sqm layout. Amenities include pool, maid room, gym, security, smart home system, and balcony. Ideally situated in Business Bay, this property offers both comfort and convenience for modern living."
+  },
+  {
+    "id": 30,
+    "title": "4BR Villa in Palm Jumeirah",
+    "location": "Palm Jumeirah",
+    "price": "$3825K",
+    "type": "Villa",
+    "bedrooms": 4,
+    "bathrooms": 2,
+    "size_sqm": 360,
+    "amenities": [
+      "balcony",
+      "security",
+      "smart home system",
+      "gym"
+    ],
+    "description": "A beautiful 4-bedroom villa located in Palm Jumeirah, featuring 2 bathroom(s) and a spacious 360 sqm layout. Amenities include balcony, security, smart home system, and gym. Ideally situated in Palm Jumeirah, this property offers both comfort and convenience for modern living."
+  },
+  {
+    "id": 31,
+    "title": "1BR Apartment in Al Barsha",
+    "location": "Al Barsha",
+    "price": "$3345K",
+    "type": "Apartment",
+    "bedrooms": 1,
+    "bathrooms": 4,
+    "size_sqm": 70,
+    "amenities": [
+      "pool",
+      "smart home system",
+      "balcony",
+      "garden",
+      "security",
+      "gym"
+    ],
+    "description": "A beautiful 1-bedroom apartment located in Al Barsha, featuring 4 bathroom(s) and a spacious 70 sqm layout. Amenities include pool, smart home system, balcony, garden, security, and gym. Ideally situated in Al Barsha, this property offers both comfort and convenience for modern living."
+  },
+  {
+    "id": 32,
+    "title": "5BR Townhouse in Business Bay",
+    "location": "Business Bay",
+    "price": "$4993K",
+    "type": "Townhouse",
+    "bedrooms": 5,
+    "bathrooms": 1,
+    "size_sqm": 340,
+    "amenities": [
+      "maid room",
+      "gym",
+      "parking",
+      "smart home system",
+      "balcony",
+      "security"
+    ],
+    "description": "A beautiful 5-bedroom townhouse located in Business Bay, featuring 1 bathroom(s) and a spacious 340 sqm layout. Amenities include maid room, gym, parking, smart home system, balcony, and security. Ideally situated in Business Bay, this property offers both comfort and convenience for modern living."
+  },
+  {
+    "id": 33,
+    "title": "5BR Townhouse in JVC",
+    "location": "JVC",
+    "price": "$653K",
+    "type": "Townhouse",
+    "bedrooms": 5,
+    "bathrooms": 3,
+    "size_sqm": 380,
+    "amenities": [
+      "parking",
+      "security",
+      "pool",
+      "maid room",
+      "balcony",
+      "smart home system"
+    ],
+    "description": "A beautiful 5-bedroom townhouse located in JVC, featuring 3 bathroom(s) and a spacious 380 sqm layout. Amenities include parking, security, pool, maid room, balcony, and smart home system. Ideally situated in JVC, this property offers both comfort and convenience for modern living."
+  },
+  {
+    "id": 34,
+    "title": "4BR Townhouse in Dubai Hills",
+    "location": "Dubai Hills",
+    "price": "$2643K",
+    "type": "Townhouse",
+    "bedrooms": 4,
+    "bathrooms": 4,
+    "size_sqm": 380,
+    "amenities": [
+      "parking",
+      "pool",
+      "balcony"
+    ],
+    "description": "A beautiful 4-bedroom townhouse located in Dubai Hills, featuring 4 bathroom(s) and a spacious 380 sqm layout. Amenities include parking, pool, and balcony. Ideally situated in Dubai Hills, this property offers both comfort and convenience for modern living."
+  },
+  {
+    "id": 35,
+    "title": "2BR Penthouse in Dubai Marina",
+    "location": "Dubai Marina",
+    "price": "$3769K",
+    "type": "Penthouse",
+    "bedrooms": 2,
+    "bathrooms": 3,
+    "size_sqm": 320,
+    "amenities": [
+      "maid room",
+      "garden",
+      "balcony",
+      "smart home system"
+    ],
+    "description": "A beautiful 2-bedroom penthouse located in Dubai Marina, featuring 3 bathroom(s) and a spacious 320 sqm layout. Amenities include maid room, garden, balcony, and smart home system. Ideally situated in Dubai Marina, this property offers both comfort and convenience for modern living."
+  },
+  {
+    "id": 36,
+    "title": "1BR Apartment in Arabian Ranches",
+    "location": "Arabian Ranches",
+    "price": "$964K",
+    "type": "Apartment",
+    "bedrooms": 1,
+    "bathrooms": 4,
+    "size_sqm": 250,
+    "amenities": [
+      "garden",
+      "pool",
+      "smart home system",
+      "security",
+      "balcony"
+    ],
+    "description": "A beautiful 1-bedroom apartment located in Arabian Ranches, featuring 4 bathroom(s) and a spacious 250 sqm layout. Amenities include garden, pool, smart home system, security, and balcony. Ideally situated in Arabian Ranches, this property offers both comfort and convenience for modern living."
+  },
+  {
+    "id": 37,
+    "title": "5BR Villa in Jumeirah",
+    "location": "Jumeirah",
+    "price": "$2456K",
+    "type": "Villa",
+    "bedrooms": 5,
+    "bathrooms": 3,
+    "size_sqm": 220,
+    "amenities": [
+      "maid room",
+      "security",
+      "pool",
+      "garden",
+      "smart home system"
+    ],
+    "description": "A beautiful 5-bedroom villa located in Jumeirah, featuring 3 bathroom(s) and a spacious 220 sqm layout. Amenities include maid room, security, pool, garden, and smart home system. Ideally situated in Jumeirah, this property offers both comfort and convenience for modern living."
+  },
+  {
+    "id": 38,
+    "title": "3BR Studio in Al Barsha",
+    "location": "Al Barsha",
+    "price": "$1083K",
+    "type": "Studio",
+    "bedrooms": 3,
+    "bathrooms": 2,
+    "size_sqm": 180,
+    "amenities": [
+      "smart home system",
+      "balcony",
+      "gym",
+      "security",
+      "parking",
+      "maid room"
+    ],
+    "description": "A beautiful 3-bedroom studio located in Al Barsha, featuring 2 bathroom(s) and a spacious 180 sqm layout. Amenities include smart home system, balcony, gym, security, parking, and maid room. Ideally situated in Al Barsha, this property offers both comfort and convenience for modern living."
+  },
+  {
+    "id": 39,
+    "title": "5BR Apartment in Al Barsha",
+    "location": "Al Barsha",
+    "price": "$1406K",
+    "type": "Apartment",
+    "bedrooms": 5,
+    "bathrooms": 1,
+    "size_sqm": 340,
+    "amenities": [
+      "gym",
+      "balcony",
+      "smart home system"
+    ],
+    "description": "A beautiful 5-bedroom apartment located in Al Barsha, featuring 1 bathroom(s) and a spacious 340 sqm layout. Amenities include gym, balcony, and smart home system. Ideally situated in Al Barsha, this property offers both comfort and convenience for modern living."
+  },
+  {
+    "id": 40,
+    "title": "5BR Studio in Dubai Hills",
+    "location": "Dubai Hills",
+    "price": "$4318K",
+    "type": "Studio",
+    "bedrooms": 5,
+    "bathrooms": 4,
+    "size_sqm": 230,
+    "amenities": [
+      "parking",
+      "security",
+      "gym"
+    ],
+    "description": "A beautiful 5-bedroom studio located in Dubai Hills, featuring 4 bathroom(s) and a spacious 230 sqm layout. Amenities include parking, security, and gym. Ideally situated in Dubai Hills, this property offers both comfort and convenience for modern living."
+  },
+  {
+    "id": 41,
+    "title": "5BR Villa in Jumeirah",
+    "location": "Jumeirah",
+    "price": "$3351K",
+    "type": "Villa",
+    "bedrooms": 5,
+    "bathrooms": 3,
+    "size_sqm": 60,
+    "amenities": [
+      "parking",
+      "maid room",
+      "pool",
+      "security"
+    ],
+    "description": "A beautiful 5-bedroom villa located in Jumeirah, featuring 3 bathroom(s) and a spacious 60 sqm layout. Amenities include parking, maid room, pool, and security. Ideally situated in Jumeirah, this property offers both comfort and convenience for modern living."
+  },
+  {
+    "id": 42,
+    "title": "3BR Studio in Business Bay",
+    "location": "Business Bay",
+    "price": "$2398K",
+    "type": "Studio",
+    "bedrooms": 3,
+    "bathrooms": 3,
+    "size_sqm": 420,
+    "amenities": [
+      "security",
+      "garden",
+      "balcony",
+      "pool",
+      "maid room"
+    ],
+    "description": "A beautiful 3-bedroom studio located in Business Bay, featuring 3 bathroom(s) and a spacious 420 sqm layout. Amenities include security, garden, balcony, pool, and maid room. Ideally situated in Business Bay, this property offers both comfort and convenience for modern living."
+  },
+  {
+    "id": 43,
+    "title": "5BR Penthouse in Downtown Dubai",
+    "location": "Downtown Dubai",
+    "price": "$3352K",
+    "type": "Penthouse",
+    "bedrooms": 5,
+    "bathrooms": 1,
+    "size_sqm": 80,
+    "amenities": [
+      "pool",
+      "gym",
+      "garden"
+    ],
+    "description": "A beautiful 5-bedroom penthouse located in Downtown Dubai, featuring 1 bathroom(s) and a spacious 80 sqm layout. Amenities include pool, gym, and garden. Ideally situated in Downtown Dubai, this property offers both comfort and convenience for modern living."
+  },
+  {
+    "id": 44,
+    "title": "2BR Studio in Deira",
+    "location": "Deira",
+    "price": "$3742K",
+    "type": "Studio",
+    "bedrooms": 2,
+    "bathrooms": 2,
+    "size_sqm": 360,
+    "amenities": [
+      "balcony",
+      "security",
+      "smart home system",
+      "gym",
+      "pool"
+    ],
+    "description": "A beautiful 2-bedroom studio located in Deira, featuring 2 bathroom(s) and a spacious 360 sqm layout. Amenities include balcony, security, smart home system, gym, and pool. Ideally situated in Deira, this property offers both comfort and convenience for modern living."
+  },
+  {
+    "id": 45,
+    "title": "4BR Penthouse in Jumeirah",
+    "location": "Jumeirah",
+    "price": "$2499K",
+    "type": "Penthouse",
+    "bedrooms": 4,
+    "bathrooms": 4,
+    "size_sqm": 180,
+    "amenities": [
+      "security",
+      "gym",
+      "garden",
+      "maid room",
+      "balcony"
+    ],
+    "description": "A beautiful 4-bedroom penthouse located in Jumeirah, featuring 4 bathroom(s) and a spacious 180 sqm layout. Amenities include security, gym, garden, maid room, and balcony. Ideally situated in Jumeirah, this property offers both comfort and convenience for modern living."
+  },
+  {
+    "id": 46,
+    "title": "2BR Penthouse in Jumeirah",
+    "location": "Jumeirah",
+    "price": "$172K",
+    "type": "Penthouse",
+    "bedrooms": 2,
+    "bathrooms": 4,
+    "size_sqm": 150,
+    "amenities": [
+      "pool",
+      "garden",
+      "maid room"
+    ],
+    "description": "A beautiful 2-bedroom penthouse located in Jumeirah, featuring 4 bathroom(s) and a spacious 150 sqm layout. Amenities include pool, garden, and maid room. Ideally situated in Jumeirah, this property offers both comfort and convenience for modern living."
+  },
+  {
+    "id": 47,
+    "title": "4BR Apartment in Business Bay",
+    "location": "Business Bay",
+    "price": "$1286K",
+    "type": "Apartment",
+    "bedrooms": 4,
+    "bathrooms": 1,
+    "size_sqm": 220,
+    "amenities": [
+      "balcony",
+      "maid room",
+      "pool",
+      "security",
+      "garden",
+      "gym"
+    ],
+    "description": "A beautiful 4-bedroom apartment located in Business Bay, featuring 1 bathroom(s) and a spacious 220 sqm layout. Amenities include balcony, maid room, pool, security, garden, and gym. Ideally situated in Business Bay, this property offers both comfort and convenience for modern living."
+  },
+  {
+    "id": 48,
+    "title": "5BR Studio in Palm Jumeirah",
+    "location": "Palm Jumeirah",
+    "price": "$1116K",
+    "type": "Studio",
+    "bedrooms": 5,
+    "bathrooms": 3,
+    "size_sqm": 450,
+    "amenities": [
+      "parking",
+      "smart home system",
+      "maid room",
+      "garden"
+    ],
+    "description": "A beautiful 5-bedroom studio located in Palm Jumeirah, featuring 3 bathroom(s) and a spacious 450 sqm layout. Amenities include parking, smart home system, maid room, and garden. Ideally situated in Palm Jumeirah, this property offers both comfort and convenience for modern living."
+  },
+  {
+    "id": 49,
+    "title": "5BR Villa in Business Bay",
+    "location": "Business Bay",
+    "price": "$1606K",
+    "type": "Villa",
+    "bedrooms": 5,
+    "bathrooms": 1,
+    "size_sqm": 140,
+    "amenities": [
+      "security",
+      "garden",
+      "smart home system",
+      "gym"
+    ],
+    "description": "A beautiful 5-bedroom villa located in Business Bay, featuring 1 bathroom(s) and a spacious 140 sqm layout. Amenities include security, garden, smart home system, and gym. Ideally situated in Business Bay, this property offers both comfort and convenience for modern living."
+  },
+  {
+    "id": 50,
+    "title": "2BR Apartment in Dubai Marina",
+    "location": "Dubai Marina",
+    "price": "$2503K",
+    "type": "Apartment",
+    "bedrooms": 2,
+    "bathrooms": 4,
+    "size_sqm": 290,
+    "amenities": [
+      "smart home system",
+      "balcony",
+      "security",
+      "maid room"
+    ],
+    "description": "A beautiful 2-bedroom apartment located in Dubai Marina, featuring 4 bathroom(s) and a spacious 290 sqm layout. Amenities include smart home system, balcony, security, and maid room. Ideally situated in Dubai Marina, this property offers both comfort and convenience for modern living."
+  },
+  {
+    "id": 51,
+    "title": "2BR Studio in Soho",
+    "location": "Soho",
+    "price": "$1396K",
+    "type": "Studio",
+    "bedrooms": 2,
+    "bathrooms": 1,
+    "size_sqm": 330,
+    "amenities": [
+      "gym",
+      "balcony",
+      "parking"
+    ],
+    "description": "A beautiful 2-bedroom studio located in Soho, featuring 1 bathroom(s) and a spacious 330 sqm layout. Amenities include gym, balcony, and parking. Ideally situated in Soho, this property offers both comfort and convenience for modern living."
+  },
+  {
+    "id": 52,
+    "title": "1BR Townhouse in Kensington",
+    "location": "Kensington",
+    "price": "$4497K",
+    "type": "Townhouse",
+    "bedrooms": 1,
+    "bathrooms": 4,
+    "size_sqm": 360,
+    "amenities": [
+      "balcony",
+      "garden",
+      "gym",
+      "pool",
+      "security"
+    ],
+    "description": "A beautiful 1-bedroom townhouse located in Kensington, featuring 4 bathroom(s) and a spacious 360 sqm layout. Amenities include balcony, garden, gym, pool, and security. Ideally situated in Kensington, this property offers both comfort and convenience for modern living."
+  },
+  {
+    "id": 53,
+    "title": "1BR Townhouse in Battersea",
+    "location": "Battersea",
+    "price": "$157K",
+    "type": "Townhouse",
+    "bedrooms": 1,
+    "bathrooms": 1,
+    "size_sqm": 290,
+    "amenities": [
+      "pool",
+      "gym",
+      "smart home system"
+    ],
+    "description": "A beautiful 1-bedroom townhouse located in Battersea, featuring 1 bathroom(s) and a spacious 290 sqm layout. Amenities include pool, gym, and smart home system. Ideally situated in Battersea, this property offers both comfort and convenience for modern living."
+  },
+  {
+    "id": 54,
+    "title": "4BR Villa in Notting Hill",
+    "location": "Notting Hill",
+    "price": "$303K",
+    "type": "Villa",
+    "bedrooms": 4,
+    "bathrooms": 3,
+    "size_sqm": 140,
+    "amenities": [
+      "security",
+      "smart home system",
+      "garden",
+      "parking"
+    ],
+    "description": "A beautiful 4-bedroom villa located in Notting Hill, featuring 3 bathroom(s) and a spacious 140 sqm layout. Amenities include security, smart home system, garden, and parking. Ideally situated in Notting Hill, this property offers both comfort and convenience for modern living."
+  },
+  {
+    "id": 55,
+    "title": "1BR Apartment in Greenwich",
+    "location": "Greenwich",
+    "price": "$289K",
+    "type": "Apartment",
+    "bedrooms": 1,
+    "bathrooms": 2,
+    "size_sqm": 180,
+    "amenities": [
+      "gym",
+      "parking",
+      "maid room",
+      "pool",
+      "garden"
+    ],
+    "description": "A beautiful 1-bedroom apartment located in Greenwich, featuring 2 bathroom(s) and a spacious 180 sqm layout. Amenities include gym, parking, maid room, pool, and garden. Ideally situated in Greenwich, this property offers both comfort and convenience for modern living."
+  },
+  {
+    "id": 56,
+    "title": "3BR Villa in Shoreditch",
+    "location": "Shoreditch",
+    "price": "$3983K",
+    "type": "Villa",
+    "bedrooms": 3,
+    "bathrooms": 3,
+    "size_sqm": 290,
+    "amenities": [
+      "maid room",
+      "balcony",
+      "security"
+    ],
+    "description": "A beautiful 3-bedroom villa located in Shoreditch, featuring 3 bathroom(s) and a spacious 290 sqm layout. Amenities include maid room, balcony, and security. Ideally situated in Shoreditch, this property offers both comfort and convenience for modern living."
+  },
+  {
+    "id": 57,
+    "title": "5BR Apartment in Hampstead",
+    "location": "Hampstead",
+    "price": "$3141K",
+    "type": "Apartment",
+    "bedrooms": 5,
+    "bathrooms": 3,
+    "size_sqm": 160,
+    "amenities": [
+      "pool",
+      "balcony",
+      "smart home system"
+    ],
+    "description": "A beautiful 5-bedroom apartment located in Hampstead, featuring 3 bathroom(s) and a spacious 160 sqm layout. Amenities include pool, balcony, and smart home system. Ideally situated in Hampstead, this property offers both comfort and convenience for modern living."
+  },
+  {
+    "id": 58,
+    "title": "2BR Townhouse in Notting Hill",
+    "location": "Notting Hill",
+    "price": "$3937K",
+    "type": "Townhouse",
+    "bedrooms": 2,
+    "bathrooms": 3,
+    "size_sqm": 150,
+    "amenities": [
+      "security",
+      "parking",
+      "garden",
+      "pool",
+      "smart home system"
+    ],
+    "description": "A beautiful 2-bedroom townhouse located in Notting Hill, featuring 3 bathroom(s) and a spacious 150 sqm layout. Amenities include security, parking, garden, pool, and smart home system. Ideally situated in Notting Hill, this property offers both comfort and convenience for modern living."
+  },
+  {
+    "id": 59,
+    "title": "2BR Studio in Kensington",
+    "location": "Kensington",
+    "price": "$1501K",
+    "type": "Studio",
+    "bedrooms": 2,
+    "bathrooms": 1,
+    "size_sqm": 300,
+    "amenities": [
+      "maid room",
+      "parking",
+      "pool",
+      "gym",
+      "security"
+    ],
+    "description": "A beautiful 2-bedroom studio located in Kensington, featuring 1 bathroom(s) and a spacious 300 sqm layout. Amenities include maid room, parking, pool, gym, and security. Ideally situated in Kensington, this property offers both comfort and convenience for modern living."
+  },
+  {
+    "id": 60,
+    "title": "4BR Townhouse in Kensington",
+    "location": "Kensington",
+    "price": "$2651K",
+    "type": "Townhouse",
+    "bedrooms": 4,
+    "bathrooms": 1,
+    "size_sqm": 210,
+    "amenities": [
+      "smart home system",
+      "parking",
+      "garden",
+      "maid room"
+    ],
+    "description": "A beautiful 4-bedroom townhouse located in Kensington, featuring 1 bathroom(s) and a spacious 210 sqm layout. Amenities include smart home system, parking, garden, and maid room. Ideally situated in Kensington, this property offers both comfort and convenience for modern living."
+  },
+  {
+    "id": 61,
+    "title": "3BR Townhouse in Shoreditch",
+    "location": "Shoreditch",
+    "price": "$2425K",
+    "type": "Townhouse",
+    "bedrooms": 3,
+    "bathrooms": 3,
+    "size_sqm": 80,
+    "amenities": [
+      "balcony",
+      "parking",
+      "gym",
+      "maid room"
+    ],
+    "description": "A beautiful 3-bedroom townhouse located in Shoreditch, featuring 3 bathroom(s) and a spacious 80 sqm layout. Amenities include balcony, parking, gym, and maid room. Ideally situated in Shoreditch, this property offers both comfort and convenience for modern living."
+  },
+  {
+    "id": 62,
+    "title": "4BR Studio in Notting Hill",
+    "location": "Notting Hill",
+    "price": "$2296K",
+    "type": "Studio",
+    "bedrooms": 4,
+    "bathrooms": 3,
+    "size_sqm": 380,
+    "amenities": [
+      "security",
+      "pool",
+      "maid room",
+      "garden",
+      "smart home system"
+    ],
+    "description": "A beautiful 4-bedroom studio located in Notting Hill, featuring 3 bathroom(s) and a spacious 380 sqm layout. Amenities include security, pool, maid room, garden, and smart home system. Ideally situated in Notting Hill, this property offers both comfort and convenience for modern living."
+  },
+  {
+    "id": 63,
+    "title": "5BR Townhouse in Battersea",
+    "location": "Battersea",
+    "price": "$2477K",
+    "type": "Townhouse",
+    "bedrooms": 5,
+    "bathrooms": 3,
+    "size_sqm": 230,
+    "amenities": [
+      "pool",
+      "garden",
+      "gym",
+      "security",
+      "maid room",
+      "balcony"
+    ],
+    "description": "A beautiful 5-bedroom townhouse located in Battersea, featuring 3 bathroom(s) and a spacious 230 sqm layout. Amenities include pool, garden, gym, security, maid room, and balcony. Ideally situated in Battersea, this property offers both comfort and convenience for modern living."
+  },
+  {
+    "id": 64,
+    "title": "3BR Studio in Notting Hill",
+    "location": "Notting Hill",
+    "price": "$4262K",
+    "type": "Studio",
+    "bedrooms": 3,
+    "bathrooms": 2,
+    "size_sqm": 410,
+    "amenities": [
+      "gym",
+      "parking",
+      "smart home system",
+      "security"
+    ],
+    "description": "A beautiful 3-bedroom studio located in Notting Hill, featuring 2 bathroom(s) and a spacious 410 sqm layout. Amenities include gym, parking, smart home system, and security. Ideally situated in Notting Hill, this property offers both comfort and convenience for modern living."
+  },
+  {
+    "id": 65,
+    "title": "2BR Townhouse in Chelsea",
+    "location": "Chelsea",
+    "price": "$729K",
+    "type": "Townhouse",
+    "bedrooms": 2,
+    "bathrooms": 4,
+    "size_sqm": 200,
+    "amenities": [
+      "security",
+      "maid room",
+      "pool",
+      "garden",
+      "parking",
+      "smart home system"
+    ],
+    "description": "A beautiful 2-bedroom townhouse located in Chelsea, featuring 4 bathroom(s) and a spacious 200 sqm layout. Amenities include security, maid room, pool, garden, parking, and smart home system. Ideally situated in Chelsea, this property offers both comfort and convenience for modern living."
+  },
+  {
+    "id": 66,
+    "title": "5BR Townhouse in Greenwich",
+    "location": "Greenwich",
+    "price": "$932K",
+    "type": "Townhouse",
+    "bedrooms": 5,
+    "bathrooms": 1,
+    "size_sqm": 200,
+    "amenities": [
+      "gym",
+      "parking",
+      "garden",
+      "pool"
+    ],
+    "description": "A beautiful 5-bedroom townhouse located in Greenwich, featuring 1 bathroom(s) and a spacious 200 sqm layout. Amenities include gym, parking, garden, and pool. Ideally situated in Greenwich, this property offers both comfort and convenience for modern living."
+  },
+  {
+    "id": 67,
+    "title": "3BR Townhouse in Battersea",
+    "location": "Battersea",
+    "price": "$4844K",
+    "type": "Townhouse",
+    "bedrooms": 3,
+    "bathrooms": 1,
+    "size_sqm": 290,
+    "amenities": [
+      "smart home system",
+      "pool",
+      "balcony"
+    ],
+    "description": "A beautiful 3-bedroom townhouse located in Battersea, featuring 1 bathroom(s) and a spacious 290 sqm layout. Amenities include smart home system, pool, and balcony. Ideally situated in Battersea, this property offers both comfort and convenience for modern living."
+  },
+  {
+    "id": 68,
+    "title": "3BR Townhouse in Hampstead",
+    "location": "Hampstead",
+    "price": "$1000K",
+    "type": "Townhouse",
+    "bedrooms": 3,
+    "bathrooms": 2,
+    "size_sqm": 410,
+    "amenities": [
+      "security",
+      "balcony",
+      "maid room",
+      "garden",
+      "gym",
+      "parking"
+    ],
+    "description": "A beautiful 3-bedroom townhouse located in Hampstead, featuring 2 bathroom(s) and a spacious 410 sqm layout. Amenities include security, balcony, maid room, garden, gym, and parking. Ideally situated in Hampstead, this property offers both comfort and convenience for modern living."
+  },
+  {
+    "id": 69,
+    "title": "2BR Penthouse in Hampstead",
+    "location": "Hampstead",
+    "price": "$2408K",
+    "type": "Penthouse",
+    "bedrooms": 2,
+    "bathrooms": 4,
+    "size_sqm": 290,
+    "amenities": [
+      "security",
+      "balcony",
+      "pool",
+      "parking"
+    ],
+    "description": "A beautiful 2-bedroom penthouse located in Hampstead, featuring 4 bathroom(s) and a spacious 290 sqm layout. Amenities include security, balcony, pool, and parking. Ideally situated in Hampstead, this property offers both comfort and convenience for modern living."
+  },
+  {
+    "id": 70,
+    "title": "3BR Penthouse in Kensington",
+    "location": "Kensington",
+    "price": "$1873K",
+    "type": "Penthouse",
+    "bedrooms": 3,
+    "bathrooms": 2,
+    "size_sqm": 140,
+    "amenities": [
+      "gym",
+      "parking",
+      "security"
+    ],
+    "description": "A beautiful 3-bedroom penthouse located in Kensington, featuring 2 bathroom(s) and a spacious 140 sqm layout. Amenities include gym, parking, and security. Ideally situated in Kensington, this property offers both comfort and convenience for modern living."
+  },
+  {
+    "id": 71,
+    "title": "1BR Villa in Notting Hill",
+    "location": "Notting Hill",
+    "price": "$3167K",
+    "type": "Villa",
+    "bedrooms": 1,
+    "bathrooms": 3,
+    "size_sqm": 400,
+    "amenities": [
+      "gym",
+      "security",
+      "pool"
+    ],
+    "description": "A beautiful 1-bedroom villa located in Notting Hill, featuring 3 bathroom(s) and a spacious 400 sqm layout. Amenities include gym, security, and pool. Ideally situated in Notting Hill, this property offers both comfort and convenience for modern living."
+  },
+  {
+    "id": 72,
+    "title": "2BR Studio in Hampstead",
+    "location": "Hampstead",
+    "price": "$4825K",
+    "type": "Studio",
+    "bedrooms": 2,
+    "bathrooms": 1,
+    "size_sqm": 170,
+    "amenities": [
+      "maid room",
+      "smart home system",
+      "pool",
+      "gym",
+      "balcony",
+      "garden"
+    ],
+    "description": "A beautiful 2-bedroom studio located in Hampstead, featuring 1 bathroom(s) and a spacious 170 sqm layout. Amenities include maid room, smart home system, pool, gym, balcony, and garden. Ideally situated in Hampstead, this property offers both comfort and convenience for modern living."
+  },
+  {
+    "id": 73,
+    "title": "2BR Townhouse in Mayfair",
+    "location": "Mayfair",
+    "price": "$3161K",
+    "type": "Townhouse",
+    "bedrooms": 2,
+    "bathrooms": 2,
+    "size_sqm": 340,
+    "amenities": [
+      "balcony",
+      "smart home system",
+      "gym",
+      "maid room",
+      "garden"
+    ],
+    "description": "A beautiful 2-bedroom townhouse located in Mayfair, featuring 2 bathroom(s) and a spacious 340 sqm layout. Amenities include balcony, smart home system, gym, maid room, and garden. Ideally situated in Mayfair, this property offers both comfort and convenience for modern living."
+  },
+  {
+    "id": 74,
+    "title": "1BR Penthouse in Soho",
+    "location": "Soho",
+    "price": "$1886K",
+    "type": "Penthouse",
+    "bedrooms": 1,
+    "bathrooms": 3,
+    "size_sqm": 110,
+    "amenities": [
+      "smart home system",
+      "pool",
+      "balcony",
+      "gym"
+    ],
+    "description": "A beautiful 1-bedroom penthouse located in Soho, featuring 3 bathroom(s) and a spacious 110 sqm layout. Amenities include smart home system, pool, balcony, and gym. Ideally situated in Soho, this property offers both comfort and convenience for modern living."
+  },
+  {
+    "id": 75,
+    "title": "2BR Villa in Chelsea",
+    "location": "Chelsea",
+    "price": "$1871K",
+    "type": "Villa",
+    "bedrooms": 2,
+    "bathrooms": 4,
+    "size_sqm": 250,
+    "amenities": [
+      "maid room",
+      "security",
+      "balcony",
+      "gym"
+    ],
+    "description": "A beautiful 2-bedroom villa located in Chelsea, featuring 4 bathroom(s) and a spacious 250 sqm layout. Amenities include maid room, security, balcony, and gym. Ideally situated in Chelsea, this property offers both comfort and convenience for modern living."
+  },
+  {
+    "id": 76,
+    "title": "3BR Studio in Notting Hill",
+    "location": "Notting Hill",
+    "price": "$797K",
+    "type": "Studio",
+    "bedrooms": 3,
+    "bathrooms": 2,
+    "size_sqm": 360,
+    "amenities": [
+      "parking",
+      "smart home system",
+      "security",
+      "maid room"
+    ],
+    "description": "A beautiful 3-bedroom studio located in Notting Hill, featuring 2 bathroom(s) and a spacious 360 sqm layout. Amenities include parking, smart home system, security, and maid room. Ideally situated in Notting Hill, this property offers both comfort and convenience for modern living."
+  },
+  {
+    "id": 77,
+    "title": "2BR Penthouse in Hampstead",
+    "location": "Hampstead",
+    "price": "$2313K",
+    "type": "Penthouse",
+    "bedrooms": 2,
+    "bathrooms": 4,
+    "size_sqm": 420,
+    "amenities": [
+      "parking",
+      "balcony",
+      "security"
+    ],
+    "description": "A beautiful 2-bedroom penthouse located in Hampstead, featuring 4 bathroom(s) and a spacious 420 sqm layout. Amenities include parking, balcony, and security. Ideally situated in Hampstead, this property offers both comfort and convenience for modern living."
+  },
+  {
+    "id": 78,
+    "title": "1BR Townhouse in Greenwich",
+    "location": "Greenwich",
+    "price": "$1449K",
+    "type": "Townhouse",
+    "bedrooms": 1,
+    "bathrooms": 2,
+    "size_sqm": 250,
+    "amenities": [
+      "security",
+      "smart home system",
+      "maid room",
+      "garden"
+    ],
+    "description": "A beautiful 1-bedroom townhouse located in Greenwich, featuring 2 bathroom(s) and a spacious 250 sqm layout. Amenities include security, smart home system, maid room, and garden. Ideally situated in Greenwich, this property offers both comfort and convenience for modern living."
+  },
+  {
+    "id": 79,
+    "title": "2BR Townhouse in Mayfair",
+    "location": "Mayfair",
+    "price": "$1819K",
+    "type": "Townhouse",
+    "bedrooms": 2,
+    "bathrooms": 4,
+    "size_sqm": 200,
+    "amenities": [
+      "gym",
+      "maid room",
+      "balcony",
+      "parking"
+    ],
+    "description": "A beautiful 2-bedroom townhouse located in Mayfair, featuring 4 bathroom(s) and a spacious 200 sqm layout. Amenities include gym, maid room, balcony, and parking. Ideally situated in Mayfair, this property offers both comfort and convenience for modern living."
+  },
+  {
+    "id": 80,
+    "title": "2BR Townhouse in Soho",
+    "location": "Soho",
+    "price": "$2322K",
+    "type": "Townhouse",
+    "bedrooms": 2,
+    "bathrooms": 2,
+    "size_sqm": 460,
+    "amenities": [
+      "maid room",
+      "security",
+      "smart home system",
+      "gym",
+      "garden",
+      "balcony"
+    ],
+    "description": "A beautiful 2-bedroom townhouse located in Soho, featuring 2 bathroom(s) and a spacious 460 sqm layout. Amenities include maid room, security, smart home system, gym, garden, and balcony. Ideally situated in Soho, this property offers both comfort and convenience for modern living."
+  },
+  {
+    "id": 81,
+    "title": "3BR Apartment in Notting Hill",
+    "location": "Notting Hill",
+    "price": "$3989K",
+    "type": "Apartment",
+    "bedrooms": 3,
+    "bathrooms": 1,
+    "size_sqm": 240,
+    "amenities": [
+      "smart home system",
+      "gym",
+      "garden"
+    ],
+    "description": "A beautiful 3-bedroom apartment located in Notting Hill, featuring 1 bathroom(s) and a spacious 240 sqm layout. Amenities include smart home system, gym, and garden. Ideally situated in Notting Hill, this property offers both comfort and convenience for modern living."
+  },
+  {
+    "id": 82,
+    "title": "2BR Penthouse in Camden",
+    "location": "Camden",
+    "price": "$2240K",
+    "type": "Penthouse",
+    "bedrooms": 2,
+    "bathrooms": 2,
+    "size_sqm": 220,
+    "amenities": [
+      "garden",
+      "maid room",
+      "gym",
+      "smart home system",
+      "balcony",
+      "security"
+    ],
+    "description": "A beautiful 2-bedroom penthouse located in Camden, featuring 2 bathroom(s) and a spacious 220 sqm layout. Amenities include garden, maid room, gym, smart home system, balcony, and security. Ideally situated in Camden, this property offers both comfort and convenience for modern living."
+  },
+  {
+    "id": 83,
+    "title": "4BR Villa in Soho",
+    "location": "Soho",
+    "price": "$4383K",
+    "type": "Villa",
+    "bedrooms": 4,
+    "bathrooms": 4,
+    "size_sqm": 200,
+    "amenities": [
+      "maid room",
+      "security",
+      "smart home system"
+    ],
+    "description": "A beautiful 4-bedroom villa located in Soho, featuring 4 bathroom(s) and a spacious 200 sqm layout. Amenities include maid room, security, and smart home system. Ideally situated in Soho, this property offers both comfort and convenience for modern living."
+  },
+  {
+    "id": 84,
+    "title": "2BR Apartment in Hampstead",
+    "location": "Hampstead",
+    "price": "$3908K",
+    "type": "Apartment",
+    "bedrooms": 2,
+    "bathrooms": 1,
+    "size_sqm": 90,
+    "amenities": [
+      "balcony",
+      "maid room",
+      "security",
+      "smart home system",
+      "parking",
+      "pool"
+    ],
+    "description": "A beautiful 2-bedroom apartment located in Hampstead, featuring 1 bathroom(s) and a spacious 90 sqm layout. Amenities include balcony, maid room, security, smart home system, parking, and pool. Ideally situated in Hampstead, this property offers both comfort and convenience for modern living."
+  },
+  {
+    "id": 85,
+    "title": "5BR Studio in Chelsea",
+    "location": "Chelsea",
+    "price": "$2796K",
+    "type": "Studio",
+    "bedrooms": 5,
+    "bathrooms": 4,
+    "size_sqm": 140,
+    "amenities": [
+      "smart home system",
+      "parking",
+      "pool",
+      "maid room"
+    ],
+    "description": "A beautiful 5-bedroom studio located in Chelsea, featuring 4 bathroom(s) and a spacious 140 sqm layout. Amenities include smart home system, parking, pool, and maid room. Ideally situated in Chelsea, this property offers both comfort and convenience for modern living."
+  },
+  {
+    "id": 86,
+    "title": "3BR Studio in Shoreditch",
+    "location": "Shoreditch",
+    "price": "$2564K",
+    "type": "Studio",
+    "bedrooms": 3,
+    "bathrooms": 3,
+    "size_sqm": 230,
+    "amenities": [
+      "balcony",
+      "security",
+      "maid room",
+      "gym",
+      "smart home system"
+    ],
+    "description": "A beautiful 3-bedroom studio located in Shoreditch, featuring 3 bathroom(s) and a spacious 230 sqm layout. Amenities include balcony, security, maid room, gym, and smart home system. Ideally situated in Shoreditch, this property offers both comfort and convenience for modern living."
+  },
+  {
+    "id": 87,
+    "title": "1BR Villa in Notting Hill",
+    "location": "Notting Hill",
+    "price": "$2146K",
+    "type": "Villa",
+    "bedrooms": 1,
+    "bathrooms": 4,
+    "size_sqm": 310,
+    "amenities": [
+      "security",
+      "balcony",
+      "pool"
+    ],
+    "description": "A beautiful 1-bedroom villa located in Notting Hill, featuring 4 bathroom(s) and a spacious 310 sqm layout. Amenities include security, balcony, and pool. Ideally situated in Notting Hill, this property offers both comfort and convenience for modern living."
+  },
+  {
+    "id": 88,
+    "title": "5BR Studio in Chelsea",
+    "location": "Chelsea",
+    "price": "$1984K",
+    "type": "Studio",
+    "bedrooms": 5,
+    "bathrooms": 2,
+    "size_sqm": 50,
+    "amenities": [
+      "balcony",
+      "maid room",
+      "gym",
+      "smart home system"
+    ],
+    "description": "A beautiful 5-bedroom studio located in Chelsea, featuring 2 bathroom(s) and a spacious 50 sqm layout. Amenities include balcony, maid room, gym, and smart home system. Ideally situated in Chelsea, this property offers both comfort and convenience for modern living."
+  },
+  {
+    "id": 89,
+    "title": "3BR Penthouse in Soho",
+    "location": "Soho",
+    "price": "$1961K",
+    "type": "Penthouse",
+    "bedrooms": 3,
+    "bathrooms": 2,
+    "size_sqm": 110,
+    "amenities": [
+      "gym",
+      "pool",
+      "security",
+      "balcony",
+      "maid room",
+      "smart home system"
+    ],
+    "description": "A beautiful 3-bedroom penthouse located in Soho, featuring 2 bathroom(s) and a spacious 110 sqm layout. Amenities include gym, pool, security, balcony, maid room, and smart home system. Ideally situated in Soho, this property offers both comfort and convenience for modern living."
+  },
+  {
+    "id": 90,
+    "title": "3BR Penthouse in Chelsea",
+    "location": "Chelsea",
+    "price": "$2181K",
+    "type": "Penthouse",
+    "bedrooms": 3,
+    "bathrooms": 4,
+    "size_sqm": 230,
+    "amenities": [
+      "parking",
+      "maid room",
+      "gym",
+      "pool",
+      "security"
+    ],
+    "description": "A beautiful 3-bedroom penthouse located in Chelsea, featuring 4 bathroom(s) and a spacious 230 sqm layout. Amenities include parking, maid room, gym, pool, and security. Ideally situated in Chelsea, this property offers both comfort and convenience for modern living."
+  },
+  {
+    "id": 91,
+    "title": "2BR Studio in Soho",
+    "location": "Soho",
+    "price": "$2045K",
+    "type": "Studio",
+    "bedrooms": 2,
+    "bathrooms": 2,
+    "size_sqm": 240,
+    "amenities": [
+      "pool",
+      "balcony",
+      "garden",
+      "parking"
+    ],
+    "description": "A beautiful 2-bedroom studio located in Soho, featuring 2 bathroom(s) and a spacious 240 sqm layout. Amenities include pool, balcony, garden, and parking. Ideally situated in Soho, this property offers both comfort and convenience for modern living."
+  },
+  {
+    "id": 92,
+    "title": "5BR Apartment in Soho",
+    "location": "Soho",
+    "price": "$3409K",
+    "type": "Apartment",
+    "bedrooms": 5,
+    "bathrooms": 4,
+    "size_sqm": 500,
+    "amenities": [
+      "garden",
+      "pool",
+      "maid room",
+      "gym",
+      "balcony",
+      "parking"
+    ],
+    "description": "A beautiful 5-bedroom apartment located in Soho, featuring 4 bathroom(s) and a spacious 500 sqm layout. Amenities include garden, pool, maid room, gym, balcony, and parking. Ideally situated in Soho, this property offers both comfort and convenience for modern living."
+  },
+  {
+    "id": 93,
+    "title": "5BR Townhouse in Chelsea",
+    "location": "Chelsea",
+    "price": "$1020K",
+    "type": "Townhouse",
+    "bedrooms": 5,
+    "bathrooms": 3,
+    "size_sqm": 370,
+    "amenities": [
+      "maid room",
+      "balcony",
+      "security",
+      "parking",
+      "pool"
+    ],
+    "description": "A beautiful 5-bedroom townhouse located in Chelsea, featuring 3 bathroom(s) and a spacious 370 sqm layout. Amenities include maid room, balcony, security, parking, and pool. Ideally situated in Chelsea, this property offers both comfort and convenience for modern living."
+  },
+  {
+    "id": 94,
+    "title": "5BR Studio in Soho",
+    "location": "Soho",
+    "price": "$3732K",
+    "type": "Studio",
+    "bedrooms": 5,
+    "bathrooms": 1,
+    "size_sqm": 460,
+    "amenities": [
+      "smart home system",
+      "security",
+      "maid room",
+      "parking"
+    ],
+    "description": "A beautiful 5-bedroom studio located in Soho, featuring 1 bathroom(s) and a spacious 460 sqm layout. Amenities include smart home system, security, maid room, and parking. Ideally situated in Soho, this property offers both comfort and convenience for modern living."
+  },
+  {
+    "id": 95,
+    "title": "4BR Villa in Mayfair",
+    "location": "Mayfair",
+    "price": "$2660K",
+    "type": "Villa",
+    "bedrooms": 4,
+    "bathrooms": 2,
+    "size_sqm": 470,
+    "amenities": [
+      "garden",
+      "gym",
+      "parking",
+      "maid room"
+    ],
+    "description": "A beautiful 4-bedroom villa located in Mayfair, featuring 2 bathroom(s) and a spacious 470 sqm layout. Amenities include garden, gym, parking, and maid room. Ideally situated in Mayfair, this property offers both comfort and convenience for modern living."
+  },
+  {
+    "id": 96,
+    "title": "4BR Apartment in Battersea",
+    "location": "Battersea",
+    "price": "$4147K",
+    "type": "Apartment",
+    "bedrooms": 4,
+    "bathrooms": 1,
+    "size_sqm": 500,
+    "amenities": [
+      "parking",
+      "pool",
+      "balcony"
+    ],
+    "description": "A beautiful 4-bedroom apartment located in Battersea, featuring 1 bathroom(s) and a spacious 500 sqm layout. Amenities include parking, pool, and balcony. Ideally situated in Battersea, this property offers both comfort and convenience for modern living."
+  },
+  {
+    "id": 97,
+    "title": "1BR Apartment in Soho",
+    "location": "Soho",
+    "price": "$2162K",
+    "type": "Apartment",
+    "bedrooms": 1,
+    "bathrooms": 1,
+    "size_sqm": 110,
+    "amenities": [
+      "parking",
+      "security",
+      "garden",
+      "smart home system",
+      "gym",
+      "balcony"
+    ],
+    "description": "A beautiful 1-bedroom apartment located in Soho, featuring 1 bathroom(s) and a spacious 110 sqm layout. Amenities include parking, security, garden, smart home system, gym, and balcony. Ideally situated in Soho, this property offers both comfort and convenience for modern living."
+  },
+  {
+    "id": 98,
+    "title": "3BR Townhouse in Kensington",
+    "location": "Kensington",
+    "price": "$155K",
+    "type": "Townhouse",
+    "bedrooms": 3,
+    "bathrooms": 4,
+    "size_sqm": 80,
+    "amenities": [
+      "gym",
+      "parking",
+      "balcony"
+    ],
+    "description": "A beautiful 3-bedroom townhouse located in Kensington, featuring 4 bathroom(s) and a spacious 80 sqm layout. Amenities include gym, parking, and balcony. Ideally situated in Kensington, this property offers both comfort and convenience for modern living."
+  },
+  {
+    "id": 99,
+    "title": "2BR Villa in Soho",
+    "location": "Soho",
+    "price": "$924K",
+    "type": "Villa",
+    "bedrooms": 2,
+    "bathrooms": 2,
+    "size_sqm": 420,
+    "amenities": [
+      "gym",
+      "parking",
+      "balcony",
+      "maid room",
+      "smart home system"
+    ],
+    "description": "A beautiful 2-bedroom villa located in Soho, featuring 2 bathroom(s) and a spacious 420 sqm layout. Amenities include gym, parking, balcony, maid room, and smart home system. Ideally situated in Soho, this property offers both comfort and convenience for modern living."
+  },
+  {
+    "id": 100,
+    "title": "2BR Villa in Soho",
+    "location": "Soho",
+    "price": "$4065K",
+    "type": "Villa",
+    "bedrooms": 2,
+    "bathrooms": 2,
+    "size_sqm": 430,
+    "amenities": [
+      "maid room",
+      "balcony",
+      "pool"
+    ],
+    "description": "A beautiful 2-bedroom villa located in Soho, featuring 2 bathroom(s) and a spacious 430 sqm layout. Amenities include maid room, balcony, and pool. Ideally situated in Soho, this property offers both comfort and convenience for modern living."
+  }
+]
