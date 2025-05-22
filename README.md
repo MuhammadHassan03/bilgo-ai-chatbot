@@ -25,8 +25,6 @@ A multilingual voice-enabled real estate chatbot built with Next.js and OpenAI A
 
 ### Installation
 
-1. Clone the repository
-
 ```bash
 git clone https://github.com/MuhammadHassan03/bilgo-ai-chatbot
 cd bilgo-ai-chatbot
