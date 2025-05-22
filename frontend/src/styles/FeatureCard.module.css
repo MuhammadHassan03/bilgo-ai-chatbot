@@ -1,0 +1,49 @@
+.cardWrapper {
+  position: relative;
+  width: 100%;
+  height: 100%;
+  border-radius: 15px;
+  cursor: pointer;
+  transition: all 0.3s ease-in-out;
+  overflow: hidden;
+}
+
+.cardWrapper::before,
+.cardWrapper::after {
+  content: "";
+  position: absolute;
+  width: 20%;
+  height: 20%;
+  background-color: lightblue;
+  transition: all 0.5s;
+  z-index: 0;
+}
+
+.cardWrapper::before {
+  top: 0;
+  right: 0;
+  border-radius: 0 15px 0 100%;
+}
+
+.cardWrapper::after {
+  bottom: 0;
+  left: 0;
+  border-radius: 0 100% 0 15px;
+}
+
+.cardWrapper:hover::before,
+.cardWrapper:hover::after {
+  width: 100%;
+  height: 100%;
+  border-radius: 15px;
+}
+
+.cardWrapper:hover::after {
+  content: "HELLO";
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-weight: bold;
+  font-size: 1.25rem;
+  color: #000;
+}

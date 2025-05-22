@@ -31,13 +31,17 @@ exports.transcribeAudio = async (req, res) => {
     return res.status(400).json({ error: "No audio file uploaded." });
   }
 
+  const language = req.body.language || "en";
+  const language_code = language === "ar" ? "ar" : "en";
+
+
   try {
     // Upload local file to AssemblyAI
     const uploadResponse = await client.files.upload(fs.createReadStream(req.file.path));
-    console.log('uploadResponse', uploadResponse)
     const transcript = await client.transcripts.transcribe({
       audio_url: uploadResponse,
-      speech_model: "universal",
+      speech_model: language === "ar" ? "nano" : "universal",
+      language_code
     });
 
     let completedTranscript = transcript;

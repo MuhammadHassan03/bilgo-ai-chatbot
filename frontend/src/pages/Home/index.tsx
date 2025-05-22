@@ -31,14 +31,14 @@ export default function Home() {
         <Button
           onClick={() => navigate("/chat")}
           size="lg"
-          className="hover:scale-105 transition-transform"
+          className="hover:scale-105 transition-transform p-[10px]"
         >
           🎤 Start Chatting
         </Button>
       </motion.div>
 
       {/* Features */}
-      <div className="mt-16 grid gap-8 grid-cols-2 sm:grid-cols-2 lg:grid-cols-4 w-full max-w-5xl z-10 ">
+      <div className="mt-16 grid sm:grid-cols-1 md:grid-cols-2 lg:grid-cols-4 w-full max-w-5xl z-10 p-[10px] gap-[10px] ">
         <FeatureCard
           icon={<Mic className="w-8 h-8 text-primary" />}
           title="Voice Input"
@@ -75,14 +75,14 @@ function FeatureCard({
 }) {
   return (
     <motion.div
-      initial={{ opacity: 0, scale: 0.95 }}
-      whileInView={{ opacity: 1, scale: 1 }}
-      transition={{ duration: 0.4 }}
+      initial={{ opacity: 0, scale: 1 }}
+      whileInView={{ opacity: 1, scale: 0.95 }}
+      transition={{ type: "spring", stiffness: 60, duration: 0.5 }}
       viewport={{ once: true }}
       className="hover:shadow-lg hover:shadow-primary/40 hover:scale-105 transition-transform rounded-2xl"
     >
       <Card className="cursor-pointer">
-        <CardHeader className="flex items-center space-x-4">
+        <CardHeader className="flex items-center space-x-4 p-[10px]">
           <div className="text-primary">{icon}</div>
           <div>
             <CardTitle>{title}</CardTitle>
