@@ -1,54 +1,62 @@
-# React + TypeScript + Vite
+# Bilgo Voice Chatbot
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A multilingual voice-enabled real estate chatbot built with Next.js and OpenAI API. It uses a Retrieval-Augmented Generation (RAG) approach to answer user queries about properties from a knowledge base of 100+ listings. Supports both Arabic and English with speech recognition and natural text-to-speech.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Features
 
-## Expanding the ESLint configuration
+- Conversational real estate assistant with a knowledge base of 100+ properties
+- Multilingual support: Arabic and English, including clear, natural speech synthesis
+- Voice input with transcription powered by OpenAI Whisper API
+- Text and voice output with realistic speech synthesis using browser TTS
+- RAG-based answering: chatbot retrieves relevant property data before generating responses
+- Simple, responsive UI with easy language switching
+- Randomized property selection when listing available properties
+- Error handling and user-friendly messages in both languages
 
-If you are developing a production application, we recommend updating the configuration to enable type-aware lint rules:
+---
 
-```js
-export default tseslint.config({
-  extends: [
-    // Remove ...tseslint.configs.recommended and replace with this
-    ...tseslint.configs.recommendedTypeChecked,
-    // Alternatively, use this for stricter rules
-    ...tseslint.configs.strictTypeChecked,
-    // Optionally, add this for stylistic rules
-    ...tseslint.configs.stylisticTypeChecked,
-  ],
-  languageOptions: {
-    // other options...
-    parserOptions: {
-      project: ['./tsconfig.node.json', './tsconfig.app.json'],
-      tsconfigRootDir: import.meta.dirname,
-    },
-  },
-})
-```
+## Getting Started
 
-You can also install [eslint-plugin-react-x](https://github.com/Rel1cx/eslint-react/tree/main/packages/plugins/eslint-plugin-react-x) and [eslint-plugin-react-dom](https://github.com/Rel1cx/eslint-react/tree/main/packages/plugins/eslint-plugin-react-dom) for React-specific lint rules:
+### Prerequisites
 
-```js
-// eslint.config.js
-import reactX from 'eslint-plugin-react-x'
-import reactDom from 'eslint-plugin-react-dom'
+- Node.js (v16 or newer recommended)
 
-export default tseslint.config({
-  plugins: {
-    // Add the react-x and react-dom plugins
-    'react-x': reactX,
-    'react-dom': reactDom,
-  },
-  rules: {
-    // other rules...
-    // Enable its recommended typescript rules
-    ...reactX.configs['recommended-typescript'].rules,
-    ...reactDom.configs.recommended.rules,
-  },
-})
-```
+### Installation
+
+1. Clone the repository
+
+```bash
+git clone https://github.com/MuhammadHassan03/bilgo-ai-chatbot
+cd bilgo-ai-chatbot
+
+$$ Setup Frontend
+---bash
+cd frontend
+pnpm install
+# or
+npm install
+# or
+yarn install
+
+$$ Run Frontend
+--- bash
+pnpm run dev
+# or
+npm run dev
+# or
+yarn dev
+
+$$ Setup Backend
+---bash
+cd backend
+pnpm install
+# or
+npm install
+# or
+yarn install
+
+$$ Run Frontend
+--- bash
+node server.js
